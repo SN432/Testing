@@ -6,10 +6,10 @@ html, body {
  background-color: blanchedalmond;
  height: 100%;
  display: flex;
- justify-content: center;
- align-items: center;   
+ align-items: center;  
+justify-content: center;
 }
-  
+
 #circle
 {
     background-color: rgb(9, 164, 164);
@@ -20,4 +20,31 @@ html, body {
     justify-content: center;
     align-items: center; 
     
+}
+#hi{
+  padding: 20px;
+  background-color: rgb(247, 223, 195);
+}
+.div-form{
+  margin-bottom: 20px;
+}
+
+#getname{
+  background-color: rgb(85, 196, 146);
+  height: 30px;
+  width: fit-content;
+  display: none;
+  justify-content: center;
+  align-items: center; 
+  padding: 10px;
+  border-radius: 10%;
+  
+}
+#getfname{
+  margin-right: 20px;
+}
+#btn{
+  background-color: rgb(67, 201, 78);
+  color: rgb(54, 53, 53);
+  font-weight: 800;
 }
