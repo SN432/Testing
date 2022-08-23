@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+  }
+  
+#div{
+ background-color: blanchedalmond;
+ height: 100%;
+ display: flex;
+ justify-content: center;
+ align-items: center;   
+}
+  
+#circle
+{
+    background-color: rgb(9, 164, 164);
+    height: 50px;
+    width: 50px;
+    border-radius:100%;
+    
+}
