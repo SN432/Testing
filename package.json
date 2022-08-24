@@ -1,0 +1,22 @@
+{
+  "name": "center-item",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000\r\u0000 \u0000",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SN432/center-item.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SN432/center-item/issues"
+  },
+  "homepage": "https://github.com/SN432/center-item#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
